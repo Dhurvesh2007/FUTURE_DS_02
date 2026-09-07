@@ -1,0 +1,9 @@
+Check,Result
+Original rows,7043
+Cleaned rows,7043
+Duplicate customer IDs after cleaning,0
+Missing target values,0
+Blank TotalCharges handled,11
+Dataset columns,21
+Model evaluation split,80% train / 20% test
+Random state,42

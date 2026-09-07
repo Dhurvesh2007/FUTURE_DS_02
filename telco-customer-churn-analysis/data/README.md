@@ -1,7 +1,7 @@
 # Dataset
 
-This folder contains the Telco Customer Churn dataset used by the project.
-
-Before making a public GitHub repository, verify that redistribution of the dataset is permitted by its original source. If not, remove the CSV from the public repository and obtain it separately before running the notebook.
+This folder contains the Telco Customer Churn dataset used for the internship analysis.
 
 Expected filename: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
+
+The project is designed to reproduce the analysis from the included CSV. Before redistributing the dataset outside an educational portfolio, verify the licensing/redistribution terms of the original source.
